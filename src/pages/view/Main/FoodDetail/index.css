@@ -1,0 +1,27 @@
+.row-food-detail-container{
+    width: 95%;
+    margin-top: 30px;
+    margin: 0 auto;
+    
+}
+.col-img-food-detail{
+    padding: 10px;
+}
+.span-name-shop{
+    color:#787878 ;
+    margin-right: 5px;
+    font-size: 1rem;
+    font-weight: 500;
+   
+}
+.span-name-food-detail{
+    color:#EB7100 ;
+    font-size: 1rem;
+    font-weight: 500;
+  
+}
+.span-id-food{
+    margin: 10px 0;
+    font-size: 1.125rem;
+    font-weight: 500;
+}

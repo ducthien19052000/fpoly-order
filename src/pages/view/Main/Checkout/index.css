@@ -1,0 +1,36 @@
+.steps-content {
+    margin-top: 16px;
+   
+    background-color: #fafafa;
+    min-height: 200px;
+    text-align: center;
+    
+  }
+  
+  .steps-action {
+    margin-top: 24px;
+  }
+  .row-checkout-profile-user{
+      margin: 0;
+     margin-bottom: 20px;
+  }
+  .item-form{
+      font-size: 1.5rem  ;
+      font-weight: 500;
+   
+  }
+  .input-checkout{
+      min-width: 100%;
+  }
+  .header-method{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    background: #eee;
+    border-radius: 4px 4px 0px 0px;
+    margin: 0px;
+  }
+  .container-main-checkout{
+    background: none;
+  }
